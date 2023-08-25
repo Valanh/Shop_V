@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         tv_name = findViewById(R.id.name);
 
-        tv_name.setText("chào bạn hiền");
+        tv_name.setText("chào bạn hiền nha");
     }
 }
