@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         tv_name = findViewById(R.id.name);
-
+        //comment trên git cập nhật cho file code
         tv_name.setText("chào bạn");
     }
 }
