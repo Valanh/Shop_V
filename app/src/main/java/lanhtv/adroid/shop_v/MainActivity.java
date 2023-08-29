@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         tv_name.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                //set text for tv_name
                 tv_name.setText("chạm vào tôi làm gì");
             }
         });
