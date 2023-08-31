@@ -30,6 +30,7 @@
             android:layout_height="wrap_content"
             android:text="\tĐăng nhập để có thể \n\ttrải nghiệm dịch vụ cửa chúng tôi"
             android:textColor="@color/white"
+            android:fontFamily="@font/opensans"
             android:textSize="15dp"/>
     </LinearLayout>
 
